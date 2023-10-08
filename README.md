@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 ---
 
 ### Contact
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YourLinkedIn/)
-- Email: shiyun.wa23@imperial.ac.uk
+[🎓](https://scholar.google.com/citations?user=gXR51yIAAAAJ&hl=en) &nbsp &nbsp [✉️](mailto:shiyun.wa23@imperial.ac.uk)
