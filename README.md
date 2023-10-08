@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 ---
 
 ### Research Interests
-- Working on [InterpreTabNet and Interpre Stability: Tabular Deep Learning and A Novel Evaluation Metric](https://arxiv.org/abs/2310.02870)
+- Working on [InterpreTabNet and InterpreStability: Tabular Deep Learning Model and A Novel Evaluation Metric](https://arxiv.org/abs/2310.02870)
 - Exploring Machine Learning, Deep Learning, and Data Science.
 - Focused on Computer Vision and now integrate it with current endeavors...
+
+---
+
+### Very Proficient Skills
+Python, LaTex...
 
 ---
 
