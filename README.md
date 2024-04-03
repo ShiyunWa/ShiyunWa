@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 ### Research Interests
-- Working on ...
+- Working on early Alzheimer's Disease prediction with ADNI dataset.
 - Exploring Machine Learning, Deep Learning, and Data Science.
 - Focused on Computer Vision and now integrate it with current endeavors...
 
