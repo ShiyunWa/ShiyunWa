@@ -30,4 +30,4 @@ Python, LaTex...
 ---
 
 ### Contact
-[🎓](https://scholar.google.com/citations?user=gXR51yIAAAAJ&hl=en) $\&nbsp$ $\&nbsp$ $\&nbsp$ [✉️](mailto:shiyun.wa23@imperial.ac.uk)
+[🎓](https://scholar.google.com/citations?user=gXR51yIAAAAJ&hl=en) [✉️](mailto:shiyun.wa23@imperial.ac.uk)
