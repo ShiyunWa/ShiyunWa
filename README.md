@@ -30,4 +30,4 @@ Python, LaTex...
 ---
 
 ### Contact
-[🎓](https://scholar.google.com/citations?user=gXR51yIAAAAJ&hl=en) U+3000 [✉️](mailto:shiyun.wa23@imperial.ac.uk) U+3000 [Personal Website](https://acse-sw5223.github.io/)
+[🎓](https://scholar.google.com/citations?user=gXR51yIAAAAJ&hl=en) <span style="margin-left:20px;">[✉️](mailto:shiyun.wa23@imperial.ac.uk)</span> <span style="margin-left:20px;">[Personal Website](https://acse-sw5223.github.io/)</span>
