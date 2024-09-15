@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ---
 
-### Research Interests
-- Working on early Alzheimer's Disease prediction with ADNI dataset.
-- Exploring Machine Learning, Deep Learning, and Data Science.
-- Focused on Computer Vision and now integrate it with current endeavors...
+### Research
+- Working on early Alzheimer's Disease prediction with ADNI dataset at [Information Fusion](https://groups.cs.umass.edu/infofusion/home/) lab (Research Assistant funded by NIH).
+- Also working at [Sequence Analysis and Genomics (SAGE)](https://sage.cs.umass.edu/) lab. Build Machine Learning models with information theory to improve our ability to predict tuberculosis's molecular properties, helping develop antibiotics against tuberculosis.
+- Exploring Machine Learning, Computer Vision, Multimodal.
 
 ---
 
@@ -30,4 +30,4 @@ Python, LaTex...
 ---
 
 ### Contact
-[🎓](https://scholar.google.com/citations?user=gXR51yIAAAAJ&hl=en) [✉️](mailto:shiyun.wa23@imperial.ac.uk)
+[🎓](https://scholar.google.com/citations?user=gXR51yIAAAAJ&hl=en) &nbsp [✉️](mailto:shiyun.wa23@imperial.ac.uk) &nbsp [Personal Website](https://acse-sw5223.github.io/)
